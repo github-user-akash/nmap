@@ -1,9 +1,6 @@
 
 Nmap Cheat Sheet
 ================
-
-_src: [https://www.stationx.net/nmap-cheat-sheet](https://www.stationx.net/nmap-cheat-sheet)_
-
 Target Specification
 ---------------------------------------------------
 
